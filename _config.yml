@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://ravizombie.github.io
 title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+subtitle: A blogging framework for Ravi.
+author: Ravi Hiremani	
+simple_search: http://www.duckduckgo.com/
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: ravi.zombie@gmail.com
 # RSS feeds can list your email address if you like
-email:
+email: ravi.zombie@gmail.com	
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -64,10 +64,10 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: 
 github_repo_count: 0
-github_show_profile_link: true
-github_skip_forks: true
+github_show_profile_link: false
+github_skip_forks: false
 
 # Twitter
 twitter_user:
